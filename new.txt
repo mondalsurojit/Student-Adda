@@ -1,0 +1,151 @@
+     <!-- <section class="headline">
+        <div class="container cont_big">
+          <div class="headline_content">
+            <h2>We cover Headlines <span class="icon"><img
+                  src="./images/designs/Underline_01.svg"
+                  alt=""></span></h2>
+            <div class="owl-carousel owl-carousel owl-carousel2 owl-theme owl-loaded owl-drag">
+              <div class="owl-stage-outer">
+                <div class="owl-stage"
+                  style="transform: translate3d(-1133px, 0px, 0px); transition: all; width: 3778px;">
+                  <div class="owl-item cloned" style="width: 367.777px; margin-right: 10px;">
+                    <div class="item">
+                      <div class="image"><img
+                          src="./famos-4.jpg" alt="">
+                      </div>
+                      <h3><a
+                          href="https://www.aninews.in/news/tech/others/student-hostel-booking-platform-homversity-to-expand-operations-in-100-indian-cities-by-next-fiscal20221027214020/"
+                          target="_blank" class="" rel="noopener noreferrer">Student hostel booking platform Student Adda
+                          to expand ...</a></h3>
+                      <p><i>By ANI News 2022</i></p>
+                      <p class="date">27 October 2022</p>
+                    </div>
+                  </div>
+                  <div class="owl-item cloned" style="width: 367.777px; margin-right: 10px;">
+                    <div class="item">
+                      <div class="image"><img
+                          src="./famos-5.jpg" alt="">
+                      </div>
+                      <h3><a
+                          href="https://yourstory.com/2021/11/student-housing-platform-homversity-raises-155k-from-investor"
+                          target="_blank" rel="noopener noreferrer">[Funding alert] Student housing startup Student Adda
+                          raises $155K....</a></h3>
+                      <p><i>By YourStory 2021</i></p>
+                      <p class="date">24 Nov 2021</p>
+                    </div>
+                  </div>
+                  <div class="owl-item cloned" style="width: 367.777px; margin-right: 10px;">
+                    <div class="item">
+                      <div class="image"><img
+                          src="./famos-6.jpg" alt="">
+                      </div>
+                      <h3><a
+                          href="https://www.vccircle.com/student-focused-accommodation-platform-homversity-raises-155-000"
+                          target="_blank" rel="noopener noreferrer">Student-Focused Accommodation Platform Student Adda
+                          Raises $155,000...</a></h3>
+                      <p><i>By vccircle 2021</i></p>
+                      <p class="date">25 Nov 2021</p>
+                    </div>
+                  </div>
+                  <div class="owl-item active" style="width: 367.777px; margin-right: 10px;">
+                    <div class="item">
+                      <div class="image"><img
+                          src="./famos-3.png" alt="">
+                      </div>
+                      <h3><a
+                          href="https://bwdisrupt.businessworld.in/article/Homversity-Aims-To-Expand-In-100-Cites-With-5-Lakh-Beds-In-Next-Fiscal/21-10-2022-451478/"
+                          target="_blank" class="" rel="noopener noreferrer">Student Adda Aims To Expand In 100 Cites With
+                          5 Lakh Beds....</a></h3>
+                      <p><i>By BW Disrupt 2022</i></p>
+                      <p class="date">22 October 2022</p>
+                    </div>
+                  </div>
+                  <div class="owl-item active" style="width: 367.777px; margin-right: 10px;">
+                    <div class="item">
+                      <div class="image"><img
+                          src="./famos-4.jpg" alt="">
+                      </div>
+                      <h3><a
+                          href="https://www.aninews.in/news/tech/others/student-hostel-booking-platform-homversity-to-expand-operations-in-100-indian-cities-by-next-fiscal20221027214020/"
+                          target="_blank" class="" rel="noopener noreferrer">Student hostel booking platform Student Adda
+                          to expand ...</a></h3>
+                      <p><i>By ANI News 2022</i></p>
+                      <p class="date">27 October 2022</p>
+                    </div>
+                  </div>
+                  <div class="owl-item active" style="width: 367.777px; margin-right: 10px;">
+                    <div class="item">
+                      <div class="image"><img
+                          src="./famos-5.jpg" alt="">
+                      </div>
+                      <h3><a
+                          href="https://yourstory.com/2021/11/student-housing-platform-homversity-raises-155k-from-investor"
+                          target="_blank" rel="noopener noreferrer">[Funding alert] Student housing startup Student Adda
+                          raises $155K....</a></h3>
+                      <p><i>By YourStory 2021</i></p>
+                      <p class="date">24 Nov 2021</p>
+                    </div>
+                  </div>
+                  <div class="owl-item" style="width: 367.777px; margin-right: 10px;">
+                    <div class="item">
+                      <div class="image"><img
+                          src="./famos-6.jpg" alt="">
+                      </div>
+                      <h3><a
+                          href="https://www.vccircle.com/student-focused-accommodation-platform-homversity-raises-155-000"
+                          target="_blank" rel="noopener noreferrer">Student-Focused Accommodation Platform Student Adda
+                          Raises $155,000...</a></h3>
+                      <p><i>By vccircle 2021</i></p>
+                      <p class="date">25 Nov 2021</p>
+                    </div>
+                  </div>
+                  <div class="owl-item cloned" style="width: 367.777px; margin-right: 10px;">
+                    <div class="item">
+                      <div class="image"><img
+                          src="./famos-3.png" alt="">
+                      </div>
+                      <h3><a
+                          href="https://bwdisrupt.businessworld.in/article/Homversity-Aims-To-Expand-In-100-Cites-With-5-Lakh-Beds-In-Next-Fiscal/21-10-2022-451478/"
+                          target="_blank" class="" rel="noopener noreferrer">Student Adda Aims To Expand In 100 Cites With
+                          5 Lakh Beds....</a></h3>
+                      <p><i>By BW Disrupt 2022</i></p>
+                      <p class="date">22 October 2022</p>
+                    </div>
+                  </div>
+                  <div class="owl-item cloned" style="width: 367.777px; margin-right: 10px;">
+                    <div class="item">
+                      <div class="image"><img
+                          src="./famos-4.jpg" alt="">
+                      </div>
+                      <h3><a
+                          href="https://www.aninews.in/news/tech/others/student-hostel-booking-platform-homversity-to-expand-operations-in-100-indian-cities-by-next-fiscal20221027214020/"
+                          target="_blank" class="" rel="noopener noreferrer">Student hostel booking platform Student Adda
+                          to expand ...</a></h3>
+                      <p><i>By ANI News 2022</i></p>
+                      <p class="date">27 October 2022</p>
+                    </div>
+                  </div>
+                  <div class="owl-item cloned" style="width: 367.777px; margin-right: 10px;">
+                    <div class="item">
+                      <div class="image"><img
+                          src="./famos-5.jpg" alt="">
+                      </div>
+                      <h3><a
+                          href="https://yourstory.com/2021/11/student-housing-platform-homversity-raises-155k-from-investor"
+                          target="_blank" rel="noopener noreferrer">[Funding alert] Student housing startup Student Adda
+                          raises $155K....</a></h3>
+                      <p><i>By YourStory 2021</i></p>
+                      <p class="date">24 Nov 2021</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><span
+                    aria-label="Previous">‹</span></button><button type="button" role="presentation"
+                  class="owl-next"><span aria-label="Next">›</span></button></div>
+              <div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button
+                  role="button" class="owl-dot"><span></span></button></div>
+            </div>
+          </div>
+        </div>
+      </section> -->
